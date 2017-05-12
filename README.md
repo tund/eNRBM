@@ -47,8 +47,16 @@ Citation
 ============================================================
 
 `
-@ARTICLE { tran_nguyen_phung_venkatesh_bi15learning, AUTHOR = { Tran, Truyen and Nguyen, Tu and Phung, Dinh and Venkatesh, Svetha }, TITLE = { Learning vector representation of medical objects via {EMR}-driven nonnegative restricted {B}oltzmann machines }, JOURNAL = { Journal of Biomedical Informatics (JBI) }, YEAR = { 2015 }, VOLUME = { 54 }, PAGES = { 96--105 }, MONTH = { April }, DOI = { 10.1016/j.jbi.2015.01.012 }, URL = { http://www.sciencedirect.com/science/article/pii/S1532046415000143 }, }
-
-
+@ARTICLE { tran_nguyen_phung_venkatesh_bi15learning, 
+AUTHOR = { Tran, Truyen and Nguyen, Tu and Phung, Dinh and Venkatesh, Svetha }, 
+TITLE = { Learning vector representation of medical objects via {EMR}-driven nonnegative restricted {B}oltzmann machines }, 
+JOURNAL = { Journal of Biomedical Informatics (JBI) }, 
+YEAR = { 2015 }, 
+VOLUME = { 54 }, 
+PAGES = { 96--105 }, 
+MONTH = { April }, 
+DOI = { 10.1016/j.jbi.2015.01.012 }, 
+URL = { http://www.sciencedirect.com/science/article/pii/S1532046415000143 }, 
+}
 `
 
