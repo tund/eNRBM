@@ -1,6 +1,6 @@
 EMR-driven nonnegative restricted Boltzmann machines (eNRBM)
 ============================================================
-Contact: [tu.nguyen@deakin.edu.au]
+Contact: [nguyendinhtu@gmail.com]
 
 This package supports the submission "Learning vector representation of medical objects via
 EMR-driven nonnegative restricted Boltzmann machines (eNRBM)" to [Journal of Biomedical Informatics (JBI) - Elsevier](http://www.journals.elsevier.com/journal-of-biomedical-informatics/)
@@ -46,7 +46,7 @@ All codes are in ".m" files with fair detailed comments. Here we provide 2 demo 
 Citation
 ============================================================
 
-`
+```
 @ARTICLE { tran_nguyen_phung_venkatesh_bi15learning, 
 AUTHOR = { Tran, Truyen and Nguyen, Tu and Phung, Dinh and Venkatesh, Svetha }, 
 TITLE = { Learning vector representation of medical objects via {EMR}-driven nonnegative restricted {B}oltzmann machines }, 
@@ -58,5 +58,5 @@ MONTH = { April },
 DOI = { 10.1016/j.jbi.2015.01.012 }, 
 URL = { http://www.sciencedirect.com/science/article/pii/S1532046415000143 }, 
 }
-`
+```
 
